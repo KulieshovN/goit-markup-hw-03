@@ -60,7 +60,19 @@
   
   a {
       text-decoration: none;
-  }
+   }
+    body, h1, h2, h3, h4, h5, h6, p, ul, ol, li {
+    margin: 0;
+    padding: 0;
+    }
+
+   ul, ol {
+    padding-left: 0;
+    }
+
+   img {
+    display: block;
+    }
   
   .section-with-classes {
     background-color: #2e2f42;
@@ -135,3 +147,13 @@
     color: #F4F4FD;
     letter-spacing: 0.02em;
   }
+
+ 
+
+.container { 
+    max-width: 
+    padding-left:  
+    padding-right:  
+    margin-left:  
+    margin-right:  
+    }
