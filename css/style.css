@@ -188,17 +188,11 @@
   }
   .list-item {
     margin-right: 24px;
-}
-
-.list-item:last-child {
-    margin-right: 0;
-}
-
-.first-item {
     width: calc((100% - 72px) / 4);
 }
 
   .section-teams{
+    margin-bottom: 8px;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
