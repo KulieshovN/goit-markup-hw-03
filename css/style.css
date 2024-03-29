@@ -163,6 +163,14 @@
 .section-with-classes button:hover {
     background-color: #3b48cc;
 }
+
+ .section-2{
+    padding: 120px 0;
+ }
+
+ .visually-hidden{
+    
+ }
   .section-teams{
     font-weight: 500;
     font-size: 20px;
