@@ -188,9 +188,14 @@
     padding: 0;
     list-style-type: none;
   }
-
-  .list-items{
-    width: calc ((100% - 72px) / 4);
+  .list-item {
+    margin-right: 24px;
+  }
+  .list-item:last-child {
+    margin-right: 0; 
+}
+.first-item {
+    width: calc((100% - 72px) / 4);
 }
 
  .section-our-team{
