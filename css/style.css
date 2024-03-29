@@ -233,14 +233,15 @@
 
   .list-team{
     margin-bottom: 72px;
-  }
-  
-  .img-list{
-    background-color: #FFFFFF;
     display: flex;
     gap: 24px;
     list-style: none;
     padding: 0;
+  }
+  
+  .img-list{
+    background-color: #FFFFFF;
+    
   }
   
   .foot-link{
