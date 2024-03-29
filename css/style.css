@@ -222,6 +222,7 @@
   }
   
   .teams-dream{
+    margin-bottom: 72px;
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
@@ -229,9 +230,15 @@
     text-transform: capitalize;
     color: #2e2f42;
   }
+
+  .list-team{
+    margin-bottom: 72px;
+  }
   
   .img-list{
     background-color: #FFFFFF;
+    display: flex;
+    gap: 24px;
   }
   
   .foot-link{
@@ -247,5 +254,7 @@
     color: #F4F4FD;
     letter-spacing: 0.02em;
   }
+
+  
 
  
