@@ -188,10 +188,10 @@
     padding: 0;
     list-style-type: none;
   }
-  
+
   .list-items{
     margin-right: 24px;
-    width: calc((100% - 72px) / 4);
+    width: calc ((100% - 72px) / 4);
 }
 
  .section-our-team{
