@@ -239,6 +239,8 @@
     background-color: #FFFFFF;
     display: flex;
     gap: 24px;
+    list-style: none;
+    padding: 0;
   }
   
   .foot-link{
